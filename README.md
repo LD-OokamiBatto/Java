@@ -1,2 +1,2 @@
 # Java
-Algumas programações desenvolvidas em sala, e como exercicios de fixação.
+Algumas programações desenvolvidas em aula, e como exercicios de fixação.
